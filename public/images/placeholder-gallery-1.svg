@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F3F2EE"/>
+  <rect x="40" y="40" width="720" height="520" rx="16" stroke="#D4D2CA" stroke-width="2" stroke-dasharray="8 8"/>
+  <text x="400" y="290" text-anchor="middle" fill="#1C1C1C" font-family="sans-serif" font-size="24" font-weight="600">SETARA Barbershop — Placeholder 1</text>
+  <text x="400" y="330" text-anchor="middle" fill="#6B6A65" font-family="sans-serif" font-size="16">Unggah foto asli melalui Admin → Galeri</text>
+</svg>
+
